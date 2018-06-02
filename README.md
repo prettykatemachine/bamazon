@@ -1,1 +1,1 @@
-# bamazon
+Bamazon is a command line Node application using MySQL and npm packages to create an Amazon-like storefront.
